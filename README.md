@@ -2,6 +2,8 @@
 
 A simple and responsive **Weather Forecast Web App** that allows users to search for any city and view the current weather conditions in real time using the **OpenWeatherMap API**.
 
+## Live Demo : https://atingupta708.github.io/Weather-App-Project/
+
 ## 🚀 Features
 - Search weather by city name
 - Displays current temperature and weather conditions
