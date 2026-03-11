@@ -18,7 +18,7 @@ A simple and responsive **Weather Forecast Web App** that allows users to search
 
 ## 📂 Project Structure
 Weather-App
-├── weather.html
+├── index.html
 ├── style.css
 ├── script.js
 └── README.md
@@ -26,5 +26,5 @@ Weather-App
 ## ⚙️ How to Run
 1. Clone the repository
 2. Open the project folder
-3. Run `weather.html` in your browser
+3. Run `index.html` in your browser
 
